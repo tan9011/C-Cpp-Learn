@@ -1,3 +1,0 @@
-/home/altail/c++learn/C++/枪战/build/CMakeFiles/my_cmake_exe.dir
-/home/altail/c++learn/C++/枪战/build/CMakeFiles/edit_cache.dir
-/home/altail/c++learn/C++/枪战/build/CMakeFiles/rebuild_cache.dir
