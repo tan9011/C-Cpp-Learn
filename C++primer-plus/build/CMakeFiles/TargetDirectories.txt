@@ -1,0 +1,3 @@
+/home/altail/C-Cpp-Learn/C++primer-plus/build/CMakeFiles/4.22.dir
+/home/altail/C-Cpp-Learn/C++primer-plus/build/CMakeFiles/edit_cache.dir
+/home/altail/C-Cpp-Learn/C++primer-plus/build/CMakeFiles/rebuild_cache.dir
